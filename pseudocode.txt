@@ -16,6 +16,9 @@ These pairs are also unordered:
 
 **
 
+I actually wrote this out in rust:
+https://github.com/isla-fletcher/algorithms_hw1_3way_gale_shipley.git
+
 It's O(n^3); each player sends ~(1/2)n^2 proposals
 Output from my actual code version:
 
