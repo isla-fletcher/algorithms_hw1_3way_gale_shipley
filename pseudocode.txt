@@ -1,0 +1,8 @@
+while ( there is player not teamed )
+    player p will propose a team to players (a, b)
+    if a and b prefer the proposed team over their current one,
+        then dissolve a and b's teams.
+            (all of the other players are no longer in a team)
+        and create new team (p, a, b)
+
+Output from my actual code version:
