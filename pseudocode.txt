@@ -11,7 +11,7 @@ the pair preferences are determined beforehand as such:
         // given p : a > b > c > d,
         // then p : (a,b) > (a,c) > (a,d)
         // and p : (a,d) > (b,c) , because presense of a is prioritized
-These pairs are also unordere:
+These pairs are also unordered:
         // p : (a,b) == (b,a)
 
 **
